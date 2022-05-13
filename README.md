@@ -1,6 +1,8 @@
-# kcna
+# KCNA Exam Prep
 
-Exam Prep Guide for KCNA
+Exam Prep Guide for Kubernetes and Cloud Native Associate (KCNA). 
+
+Released in Nov 2021. For official guidance please always refer the official guidance. 
 
 ## Exam Registration Page
 https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/
@@ -26,7 +28,7 @@ https://github.com/cncf/curriculum/blob/master/KCNA_Curriculum.pdf
 ### 22% - Container Orchestration
 - Container Orchestration Fundamentals
 	https://www.ibm.com/cloud/learn/container-orchestration
-Runtime
+- Runtime
 	https://kubernetes.io/docs/concepts/containers/runtime-class/
 - Security
 	https://kubernetes.io/docs/concepts/security/
@@ -42,7 +44,8 @@ Runtime
 ### 16% - Cloud Native Architecture
 
 Open Standards: Anchoring Extensibility for Cloud-Native Tooling - Katie Gamanji, CNCF
-	
+https://www.youtube.com/watch?v=yMj92DK6R-A
+
 Cloud Native Landscape https://landscape.cncf.io
         
 Cloud Native Glossary https://glossary.cncf.io/
@@ -65,22 +68,22 @@ Cloud Native Glossary https://glossary.cncf.io/
 	https://kubernetes.io/docs/concepts/architecture/cri/
 	
 	- Container Network Interface (CNI)
-	https://github.com/containernetworking/cni
+	    https://github.com/containernetworking/cni
     
-    https://www.youtube.com/watch?v=l2BS_kuQxBA
+        https://www.youtube.com/watch?v=l2BS_kuQxBA
 
 	- Container Storage Interface (CSI)
-	https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/
+	    https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/
     
-    https://kubernetes-csi.github.io/docs/
+        https://kubernetes-csi.github.io/docs/
     
 	- Service Mesh Interface (SMI)
-    https://github.com/servicemeshinterface/smi-spec/blob/main/SPEC_LATEST_STABLE.md
+        https://github.com/servicemeshinterface/smi-spec/blob/main/SPEC_LATEST_STABLE.md
 
-    https://smi-spec.io/
+        https://smi-spec.io/
 	
 	- Cloud Provider Interface (CPI)
-    https://cloud-provider-vsphere.sigs.k8s.io/cloud_provider_interface.html
+        https://cloud-provider-vsphere.sigs.k8s.io/cloud_provider_interface.html
 
 ### 8% - Cloud Native Observability
 - Telemetry & Observability
@@ -100,10 +103,15 @@ Cloud Native Glossary https://glossary.cncf.io/
 	https://glossary.cncf.io/agile_software_development/
 	https://glossary.cncf.io/application_programming_interface/
 - GitOps
-	https://www.weave.works/technologies/gitops/Guide To GitOps (weave.works)
-	Kubernetes Monitoring with Prometheus | Weaveworks
-	GitOps | GitOps is Continuous Deployment for cloud native applications
+	
+    https://www.weave.works/technologies/gitops/
+    
+    https://www.weave.works/technologies/monitoring-kubernetes-with-prometheus/#deploy-new-features
+    
+    GitOps E-book https://www.gitops.tech/
+
 - CI/CD
+
 	https://glossary.cncf.io/continuous_integration/
 	https://glossary.cncf.io/continuous_delivery/
 	https://glossary.cncf.io/continuous_deployment/
