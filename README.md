@@ -6,7 +6,7 @@ Exam Prep Guide for Kubernetes and Cloud Native Associate (KCNA).
 
 [https://wrijugh.github.io/kcna/](https://wrijugh.github.io/kcna/)
 
-Released in Nov 2021. For official guidance please always refer the official guidance. 
+Released in Nov 2021. For official guidance please always refer the exam registration page. 
 
 ## Exam Registration Page
 [https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/)
@@ -14,7 +14,7 @@ Released in Nov 2021. For official guidance please always refer the official gui
 ## Candidate Handbook
 [https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2)
 
-## Curriculam
+## Curriculum
 [https://github.com/cncf/curriculum/blob/master/KCNA_Curriculum.pdf](https://github.com/cncf/curriculum/blob/master/KCNA_Curriculum.pdf)
 
 ### 46% - Kubernetes Fundamentals
