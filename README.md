@@ -2,24 +2,26 @@
 
 Exam Prep Guide for Kubernetes and Cloud Native Associate (KCNA). 
 
+[https://wrijugh.github.io/kcna/](https://wrijugh.github.io/kcna/)
+
 Released in Nov 2021. For official guidance please always refer the official guidance. 
 
 ## Exam Registration Page
-https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/
+[https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/)
 
 ## Candidate Handbook
-https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2
+[https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2](https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2)
 
 ## Curriculam
-https://github.com/cncf/curriculum/blob/master/KCNA_Curriculum.pdf
+[https://github.com/cncf/curriculum/blob/master/KCNA_Curriculum.pdf](https://github.com/cncf/curriculum/blob/master/KCNA_Curriculum.pdf)
 
 ### 46% - Kubernetes Fundamentals
 - Kubernetes Resources
-	https://kubernetes.io/docs/concepts/overview/components/
+	[https://kubernetes.io/docs/concepts/overview/components/](https://kubernetes.io/docs/concepts/overview/components/)
 - Kubernetes Architecture
-	https://kubernetes.io/docs/concepts/architecture/
+	[https://kubernetes.io/docs/concepts/architecture/](https://kubernetes.io/docs/concepts/architecture/)
 - Kubernetes API
-	https://kubernetes.io/docs/concepts/overview/kubernetes-api/
+	[https://kubernetes.io/docs/concepts/overview/kubernetes-api/](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
 - Containers
 	https://kubernetes.io/docs/concepts/containers/
 - Scheduling
@@ -115,3 +117,10 @@ Cloud Native Glossary https://glossary.cncf.io/
 	https://glossary.cncf.io/continuous_integration/
 	https://glossary.cncf.io/continuous_delivery/
 	https://glossary.cncf.io/continuous_deployment/
+
+## Additional Resources
+
+- FreeCodeCamp 14 hour course 
+	https://www.youtube.com/watch?v=AplluksKvzI
+
+- 
