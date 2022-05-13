@@ -1,3 +1,5 @@
+![Header](images/KCNA-Header.png)
+
 # KCNA Exam Prep
 
 Exam Prep Guide for Kubernetes and Cloud Native Associate (KCNA). 
